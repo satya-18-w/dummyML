@@ -1,0 +1,17 @@
+stages:
+  build_features:
+
+    cmd: python .\src\features\build_features.py 
+    deps: 
+    - .\src\features\build_features.py
+    - .\data\split_data\
+
+  train_models:
+    cmd: python .\src\models\train_model.py  \data\processed\
+    deps: 
+    - .\src\models\train_model.py
+    - .\data\processed\
+
+    # outs:
+    # - .\models\
+

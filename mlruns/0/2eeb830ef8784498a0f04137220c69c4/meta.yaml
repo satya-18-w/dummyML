@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Satyajit%20Samal/OneDrive/Desktop/campusx/Practise/trip-duration/mlruns/0/2eeb830ef8784498a0f04137220c69c4/artifacts
+end_time: 1748259044002
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2eeb830ef8784498a0f04137220c69c4
+run_name: XGBRegressor
+run_uuid: 2eeb830ef8784498a0f04137220c69c4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748259038681
+status: 3
+tags: []
+user_id: Satyajit Samal
